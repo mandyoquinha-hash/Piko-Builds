@@ -1,15 +1,4 @@
-# Anddea Magisk,Ksu and Apatch Module
+# Piko Instagram and Piko NewX Builds
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mandyfinds)
 
-Anddea Builds
-
-Anddea is a variant of the Revanced Extended.
-
-Get the [latest Anddea release](https://github.com/mandyoquinha-hash/Anddea-Builds/releases/20260680).
-
-## If you are having trouble with the classic mount method of the modules
-such as,
-
-- **"Reflash needed"** error after reboots
-- **"Suspicious mount detected"**
-- **Using KSU disable "Unmount Modules By default" or grant root permission to YouTube / YouTube Music"**
+Get the [latest Piko Builds release](https://github.com/mandyoquinha-hash/Piko-Builds/releases/20260680).
